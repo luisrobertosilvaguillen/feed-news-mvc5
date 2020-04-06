@@ -1,0 +1,53 @@
+﻿@model WebApp.Models.FooterViewModel
+<footer class="footer-area section-padding-100">
+    <div class="container-fluid">
+        <div class="row justify-content-between">
+            <!-- Footer Content -->
+            <div class="col-12 col-lg-4">
+                <div class="footer-content">
+                    <!-- Logo -->
+                    <a href="index.html" class="foo-logo"><img src="img/core-img/logo.png" alt=""></a>
+                    <p>Donec cursus eros et risus scelerisque, sit amet ultrices arcu scelerisque. Sed consequat fermentum turpis, vulputate maximus.Donec cursus eros et risus scelerisque, sit amet ultrices arcu scelerisque. Sed consequat fermentum turpis, vulputate maximus</p>
+                    <div class="footer-social-info d-flex">
+                        <a href="#"><i class="fa fa-pinterest"></i></a>
+                        <a href="#"><i class="fa fa-facebook"></i></a>
+                        <a href="#"><i class="fa fa-twitter"></i></a>
+                        <a href="#"><i class="fa fa-dribbble"></i></a>
+                        <a href="#"><i class="fa fa-behance"></i></a>
+                        <a href="#"><i class="fa fa-linkedin"></i></a>
+                    </div>
+                </div>
+            </div>
+            <!-- Footer Content -->
+            <div class="col-12 col-lg-7 col-xl-6">
+                <div class="footer-content d-flex flex-wrap">
+                    <!-- Feed News -->
+                    <div class="video-catagory mr-30">
+                        <h5 class="widget-title">Top 5 Feed News</h5>
+                        <ul>
+                            @{
+                                foreach (var feedNews in Model.feedNews)
+                                {
+                                    <li><a href="#"><span>@feedNews.FeedNews</span> <span>@feedNews.NewsQuantity</span></a></li>
+                                }
+                            }
+
+                        </ul>
+                    </div>
+                    <!-- News Category -->
+                    <div class="video-catagory">
+                        <h5 class="widget-title">Top 5 News Categories</h5>
+                        <ul>
+                            @{
+                                foreach (var feedNews in Model.categories)
+                                {
+                                    <li><a href="#"><span>@feedNews.Category</span> <span>@feedNews.NewsQuantity</span></a></li>
+                                }
+                            }
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>

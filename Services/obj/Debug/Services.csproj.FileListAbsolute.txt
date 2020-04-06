@@ -1,0 +1,13 @@
+E:\DESARROLLO\.NET FRAMEWORK\Modus.Net.Test\Services\bin\Debug\Services.dll
+E:\DESARROLLO\.NET FRAMEWORK\Modus.Net.Test\Services\bin\Debug\Services.pdb
+E:\DESARROLLO\.NET FRAMEWORK\Modus.Net.Test\Services\bin\Debug\Domain.dll
+E:\DESARROLLO\.NET FRAMEWORK\Modus.Net.Test\Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DESARROLLO\.NET FRAMEWORK\Modus.Net.Test\Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\DESARROLLO\.NET FRAMEWORK\Modus.Net.Test\Services\bin\Debug\EntityFramework.dll
+E:\DESARROLLO\.NET FRAMEWORK\Modus.Net.Test\Services\bin\Debug\Domain.pdb
+E:\DESARROLLO\.NET FRAMEWORK\Modus.Net.Test\Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DESARROLLO\.NET FRAMEWORK\Modus.Net.Test\Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\DESARROLLO\.NET FRAMEWORK\Modus.Net.Test\Services\bin\Debug\EntityFramework.xml
+E:\DESARROLLO\.NET FRAMEWORK\Modus.Net.Test\Services\obj\Debug\Services.dll
+E:\DESARROLLO\.NET FRAMEWORK\Modus.Net.Test\Services\obj\Debug\Services.pdb
+E:\DESARROLLO\.NET FRAMEWORK\Modus.Net.Test\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache

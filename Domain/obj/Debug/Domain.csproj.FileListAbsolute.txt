@@ -1,0 +1,14 @@
+E:\DESARROLLO\.NET FRAMEWORK\Modus.Net.Test\Domain\bin\Debug\Domain.dll.config
+E:\DESARROLLO\.NET FRAMEWORK\Modus.Net.Test\Domain\bin\Debug\Domain.dll
+E:\DESARROLLO\.NET FRAMEWORK\Modus.Net.Test\Domain\bin\Debug\Domain.pdb
+E:\DESARROLLO\.NET FRAMEWORK\Modus.Net.Test\Domain\bin\Debug\EntityFramework.dll
+E:\DESARROLLO\.NET FRAMEWORK\Modus.Net.Test\Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\DESARROLLO\.NET FRAMEWORK\Modus.Net.Test\Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\DESARROLLO\.NET FRAMEWORK\Modus.Net.Test\Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DESARROLLO\.NET FRAMEWORK\Modus.Net.Test\Domain\bin\Debug\EntityFramework.xml
+E:\DESARROLLO\.NET FRAMEWORK\Modus.Net.Test\Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\DESARROLLO\.NET FRAMEWORK\Modus.Net.Test\Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\DESARROLLO\.NET FRAMEWORK\Modus.Net.Test\Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DESARROLLO\.NET FRAMEWORK\Modus.Net.Test\Domain\obj\Debug\Domain.dll
+E:\DESARROLLO\.NET FRAMEWORK\Modus.Net.Test\Domain\obj\Debug\Domain.pdb
+E:\DESARROLLO\.NET FRAMEWORK\Modus.Net.Test\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
