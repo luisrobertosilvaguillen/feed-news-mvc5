@@ -1,2 +1,7 @@
 # feed-news-mvc5
-MVC 5Proyect ASP. NET Framework + Ninject + EF6 (Code First)
+MVC5 Proyect ASP. NET Framework + Ninject + EF6 (Code First)
+
+#Intructions:
+
+ - Clone repo
+ - Press F5
